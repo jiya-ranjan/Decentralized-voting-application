@@ -29,17 +29,3 @@ This is a **Decentralized Voting Application** built using **ReactJS** for the f
   - Hardhat (For compiling, deploying, and testing smart contracts)
 
 ---
-
-## **Setup Instructions**
-
-### **Prerequisites**
-1. Install [Node.js](https://nodejs.org/).
-2. Install [MetaMask](https://metamask.io/) as a browser extension.
-3. Install [Hardhat](https://hardhat.org/).
-4. Basic knowledge of Solidity and ReactJS.
-
-### **Steps to Run the Project**
-#### 1. Clone the Repository
-```bash
-git clone https://github.com/jiya-ranjan/Decentralized-voting-application.git
-cd Decentralized-voting-application
